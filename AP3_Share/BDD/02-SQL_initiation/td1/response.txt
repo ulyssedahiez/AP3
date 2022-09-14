@@ -1,0 +1,8 @@
+Q1 :
+SELECT raison_sociale from fournisseur;
+Q2 : 
+SELECT raison_sociale, nom_directeur from fournisseur;
+Q3 :
+SELECT reference_type_piece, libelle_type_piece FROM type_piece;
+Q4 : 
+

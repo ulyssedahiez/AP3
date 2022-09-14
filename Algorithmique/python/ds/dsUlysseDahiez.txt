@@ -1,0 +1,38 @@
+Question de cours 
+
+Q1
+
+01010011 = 1+2+16+64= - 83
+
+1010110
+0101001
+1101001 ok
+
+
+724 (o)
+
+111 010 100 
+100 100 101 ok
+
+2 
+
+b.!(!(a).!(c)).!(!(a+!(c)))
+b(a+c).a+c
+
+3
+
+cette fonction est un prgramme
+
+4
+Avec myList = [2,4,6,8,10,12,14,16]
+
+— myList[2] = affiche 6
+— myList[0 :5 :2] = affiche [2, 6, 10]
+
+Avec myWord = "programmingInPython"
+
+— myWord[-1] affiche n
+— myWord[4 :10 :-1] n'affiche rien
+
+
+

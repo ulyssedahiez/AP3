@@ -1,0 +1,2 @@
+SHA256(CentOS_7_64-bit_gnome_scapy_keepalived.ovf)= d621f7c9af531eb3beb0972cc2fe9d8b087000d9731ab9d275b00d5c391c3954
+SHA256(CentOS_7_64-bit_gnome_scapy_keepalived-disk1.vmdk)= bc1631fda1fd8ead937f91683023f1542a0b54b61e69c712fdd737f69f7737a2
